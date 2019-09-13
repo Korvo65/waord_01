@@ -1,1 +1,4 @@
-# waord_01
+# git init
+# git add .
+# git commit -a "saiber" 
+# git status
